@@ -7,4 +7,4 @@ b = 12
 
 result = multiply(a,b)
 
-print(f'The rsult of Multiply operation of {a} and {b} is {result}')
+print(f'The rsult of Multiply operation of {a} and {b} is {result} !')
